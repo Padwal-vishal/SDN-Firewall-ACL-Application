@@ -2,8 +2,10 @@
 
 ## Installation guide:
 > Install mininet  : http://mininet.org/download/
-> Use:  mininer/install/install.sh -a
+>
+> Use:  mininer/install/install.sh -a <br>
   The option -a install all required packages, such as Openflow, Wireshark as part of the mininet installation
+  
 > Install  python 3
 
 
