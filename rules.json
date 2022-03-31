@@ -1,0 +1,24 @@
+[
+	{
+	"id": "1",
+	"ipv4_src": "10.1.1.1",
+	"ipv4_dst": "10.1.1.2",
+	"protocol": "icmp"
+	},
+
+        {
+        "id": "2",
+        "ipv4_src": "any",
+        "ipv4_dst": "10.1.1.3",
+        "protocol": "tcp",
+	"src_port": "any",
+	"dst_port": "80"
+      	},
+	{
+        "id": "3",
+        "ipv4_src": "10.1.1.6",
+        "ipv4_dst": "any",
+        "protocol": "icmp"
+        }
+
+]
